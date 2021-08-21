@@ -1,3 +1,7 @@
+leftWristX = 0;
+rightWristX = 0;
+difference = 0;
+
 function draw(){
 background('#969A97');
 fill('#1B5E20');    
