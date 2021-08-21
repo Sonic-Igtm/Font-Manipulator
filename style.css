@@ -1,0 +1,31 @@
+.heading{
+font-size: 20px;
+width: 100%;
+margin: 0px;
+color:darkblue;
+box-shadow: 5px 5px 15px gray;
+font-family: 'Rampart One', cursive;
+}
+
+.note{
+    font-size: 14px;
+    color:blue;
+    font-family: 'Rampart One', cursive;
+     }
+
+    .copyright_footer{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    line-height: 2;
+    background-color: darkslateblue;
+    text-align: center;
+    font-family: cursive;
+    }
+
+    canvas{
+    box-shadow:5px 5px 15px darkslategrey;
+    border-radius: 15px;
+    border: solid firebrick;
+    }
